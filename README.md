@@ -1,1 +1,2 @@
-# sdc-photos-proxy
+# martin-proxy
+proxy for SDC
